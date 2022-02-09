@@ -1,0 +1,22 @@
+{
+  "name": "web3.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy":"gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdarifuzzaman11/VitalMo-Web3.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdarifuzzaman11/VitalMo-Web3.0/issues"
+  },
+  "homepage": "https://mdarifuzzaman11.github.io/VitalMo-Web3.0/client/"
+}
