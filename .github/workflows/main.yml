@@ -1,6 +1,6 @@
 IconIcon
 ---
-name: Build and Deploy Portfolio Web App to GitHub Pages
+name: Build and Deploy VitalMo Web 3.0 to GitHub Pages
 on:
   push:
     branches: [ master ]
